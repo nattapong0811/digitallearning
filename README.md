@@ -1,2 +1,0 @@
-# digitallearning
-GitHub Pages
